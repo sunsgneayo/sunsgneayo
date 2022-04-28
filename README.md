@@ -3,7 +3,7 @@
 
 ### Hello 👋 你好啊！
 
-:CN: 🇨🇳 ChongQing,China・💻PHP developer 
+:cn: 🇨🇳 ChongQing,China・💻PHP developer 
 
 
 如果你喜欢我的项目并想支持我，[点击这里 :heart:](https://github.com/sunsgneayo)
