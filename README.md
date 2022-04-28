@@ -1,6 +1,5 @@
 
 <img align="right" width="200" src="https://bkimg.cdn.bcebos.com/pic/d0c8a786c9177f3e67097eaf9c852cc79f3df8dcf874?x-bce-process=image/resize,m_lfit,w_536,limit_1/format,f_jpg" />
-<img align="right"  width="200" src="https://iconfont.alicdn.com/s/bbbc1bb9-8252-4f78-82af-c29807dce50d_origin.svg" />
 
 ### Hello 👋 你好啊！
 
