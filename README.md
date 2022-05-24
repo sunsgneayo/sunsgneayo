@@ -3,7 +3,7 @@
 
 #### Hello 👋 你好啊！
 
-: 🇨🇳 ChongQing,China・💻PHP|WEB前端|GO|... developer 
+ChongQing,China・💻PHP|WEB前端|GO|... developer 
 
 1998农历戊寅年（虎年），闰五月出生
 
