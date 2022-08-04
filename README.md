@@ -10,11 +10,17 @@ ChongQing,China・💻PHP|WEB前端|GO|... developer
 如果你喜欢我的项目并想支持我，[点击这里 :heart:](https://github.com/sunsgneayo)
 
 <details>
-<summary>github contribution grid snake animation</summary>
+<summary> contribution animation</summary>
 
 [![github contribution grid snake animation](https://raw.githubusercontent.com/sunsgneayo/sunsgneayo/input/github-contribution-grid-snake.svg)](https://github.com/sunsgneayo)
 
 </details>
+<details>
+<summary>contributions in 3D</summary>
 
+![](https://raw.githubusercontent.com/sunsgneayo/sunsgneayo/profile-3d-contrib/profile-green.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/sunsgneayo/sunsgneayo/prsunsgneayoofile-3d-contrib/profile-night-green.svg#gh-dark-mode-only)
+
+</details>
 
 
