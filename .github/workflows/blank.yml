@@ -24,7 +24,7 @@ jobs:
       - name: push github-contribution-grid-snake.svg to the input branch
         uses: crazy-max/ghaction-github-pages@v2.5.0
         with:
-          target_branch: main
+          target_branch: input
           build_dir: dist
           author: sunsgne <5@q.cn>
         env:
