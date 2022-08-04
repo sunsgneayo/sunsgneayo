@@ -26,6 +26,11 @@ jobs:
         with:
           target_branch: input
           build_dir: dist
-          author: sunsgne <5@q.cn>
+          author: sunsgne <sunsgneant@gmail.com>
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Push to GitHub
+        uses: EndBug/add-and-commit@v7.2.1
+        with:
+          branch: input
+          message: 'Generate Contribution Snake'
