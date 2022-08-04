@@ -5,7 +5,7 @@ name: generate animation
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * * *" # every 0 hours
+    - cron: "0 0 * * * " # every 0 hours
 
 jobs:
   generate:
