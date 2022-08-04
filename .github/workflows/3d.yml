@@ -22,6 +22,6 @@ jobs:
         with:
           target_branch: profile-3d-contrib
           build_dir: profile-3d-contrib
-          author: sy-records <52o@qq52o.cn>
+          author: sunsgne <sunsgneant@gmail.com>
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
