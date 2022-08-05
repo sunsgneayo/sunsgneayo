@@ -21,7 +21,7 @@ ChongQing,China・💻PHP|WEB前端|GO|... developer
 
 
 <details>
-<summary> contribution animation</summary>
+<summary> heatmap in animation</summary>
 
 [![github contribution grid snake animation](https://raw.githubusercontent.com/sunsgneayo/sunsgneayo/input/github-contribution-grid-snake.svg)](https://github.com/sunsgneayo)
 
