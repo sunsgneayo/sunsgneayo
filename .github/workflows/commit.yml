@@ -2,12 +2,13 @@ name: nobugs`commit
 on:
   push:
     branches:
-      - master
+      - input
   schedule:
     - cron: "* * * * *" 
 jobs:
   autogreen:
     runs-on: ubuntu-latest
+    
     steps:
       - name: Clone repository
         uses: actions/checkout@v2
