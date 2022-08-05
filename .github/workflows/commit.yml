@@ -1,22 +1,16 @@
-name: nobugs`commit
+name: Recent Activity
+
 on:
-  push:
-    branches:
-      - input
   schedule:
-    - cron: "* * * * *" 
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
 jobs:
-  autogreen:
+  build:
     runs-on: ubuntu-latest
-    
+
     steps:
-      - name: Clone repository
-        uses: actions/checkout@v2
-      - name: Auto always green
-        run: |
-          git config --local user.email "583985775@qq.com" # 此处替换成你GitHub的邮箱地址 
-          git config --local user.name "sunsgneayo" # 此处替换成你GitHub的账号昵称
-          git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-          git pull --rebase
-          git commit --allow-empty -m "no bugs,no bugs!"
-          git push
+      - uses: actions/checkout@v3
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
