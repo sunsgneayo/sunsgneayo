@@ -14,7 +14,7 @@ ChongQing,China・💻PHP|WEB前端|GO|... developer
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/sunsgneayo/sunsgneayo/pull/2) in [sunsgneayo/sunsgneayo](https://github.com/sunsgneayo/sunsgneayo)
+1. 🎉 Merged PR [#4](https://github.com/sunsgneayo/sunsgneayo/pull/4) in [sunsgneayo/sunsgneayo](https://github.com/sunsgneayo/sunsgneayo)
 <!--END_SECTION:activity-->
 
 ---
