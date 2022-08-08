@@ -1,24 +1,23 @@
-name: ci
+name: php-cs-fixer
 
 on:
+  pull_request:
   push:
     branches:
-      - master
-  schedule:
-    - cron: "0 0 * * *"
+      - input
 
 jobs:
-  autogreen:
+  php-cs-fixer:
     runs-on: ubuntu-latest
-    steps:
-      - name: Clone repository
-        uses: actions/checkout@v3
 
-      - name: Auto green
-        run: |
-          git config --local user.email "sunsgneant@gmail.com"
-          git config --local user.name "sunsgne"
-          git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-          git pull --rebase
-          git commit --allow-empty -m "a commit a day keeps your girlfriend away"
-          git push
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        ref: ${{ github.head_ref }}
+
+    - name: Run php-cs-fixer
+      uses: docker://oskarstark/php-cs-fixer-ga
+
+    - uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: Apply php-cs-fixer changes
