@@ -14,7 +14,7 @@ ChongQing,China・💻PHP|WEB前端|GO|... developer
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/sunsgneayo/sunsgneayo/pull/4) in [sunsgneayo/sunsgneayo](https://github.com/sunsgneayo/sunsgneayo)
+1. 💪 Opened PR [#3](https://github.com/workbunny/webman-nacos/pull/3) in [workbunny/webman-nacos](https://github.com/workbunny/webman-nacos)
 <!--END_SECTION:activity-->
 
 ---
