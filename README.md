@@ -7,7 +7,7 @@ ChongQing,China・💻PHP|WEB前端|GO|... developer
 
 幸运数字1998
 
-如果你喜欢我的项目并想支持我，[点击这里 :heart:](https://github.com/sunsgneayo)
+[点击这里 :heart:](https://github.com/sunsgneayo)
 
 
 ---
