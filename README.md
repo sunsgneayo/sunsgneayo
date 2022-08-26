@@ -14,7 +14,7 @@ ChongQing,China・💻PHP|WEB前端|GO|... developer
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/workbunny/webman-nacos/issues/3) in [workbunny/webman-nacos](https://github.com/workbunny/webman-nacos)
+1. 🗣 Commented on [#16](https://github.com/kanyxmo/MineAdmin/issues/16) in [kanyxmo/MineAdmin](https://github.com/kanyxmo/MineAdmin)
 <!--END_SECTION:activity-->
 
 ---
