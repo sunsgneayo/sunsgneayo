@@ -31,8 +31,7 @@ ChongQing,China・💻PHP|WEB前端|GO|... developer
 
 </details>
 
-
-  <p hidden>
+<!--
  <details>
 
   <summary>contributions in 3D</summary>
@@ -42,5 +41,5 @@ ChongQing,China・💻PHP|WEB前端|GO|... developer
 
  </details>
  </p>
-
+-->
 
