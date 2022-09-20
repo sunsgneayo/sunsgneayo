@@ -31,13 +31,16 @@ ChongQing,China・💻PHP|WEB前端|GO|... developer
 
 </details>
 
- <details>
+
   <p hidden>
+ <details>
+
   <summary>contributions in 3D</summary>
 
  ![](https://raw.githubusercontent.com/sunsgneayo/sunsgneayo/profile-3d-contrib/profile-green.svg#gh-light-mode-only)
   ![](https://raw.githubusercontent.com/sunsgneayo/sunsgneayo/profile-3d-contrib/profile-night-green.svg#gh-dark-mode-only)
-</p>
+
  </details>
+ </p>
 
 
