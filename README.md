@@ -15,9 +15,9 @@ ChongQing,China・💻PHP|WEB前端|GO|... developer
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/workbunny/webman-push-server/pull/1) in [workbunny/webman-push-server](https://github.com/workbunny/webman-push-server)
-2. 💪 Opened PR [#16](https://github.com/kanyxmo/MineAdmin/pull/16) in [kanyxmo/MineAdmin](https://github.com/kanyxmo/MineAdmin)
-3. 🗣 Commented on [#3](https://github.com/workbunny/webman-nacos/issues/3) in [workbunny/webman-nacos](https://github.com/workbunny/webman-nacos)
+1. 🗣 Commented on [#2](https://github.com/workbunny/webman-push-server/issues/2) in [workbunny/webman-push-server](https://github.com/workbunny/webman-push-server)
+2. ❗️ Opened issue [#2](https://github.com/workbunny/webman-push-server/issues/2) in [workbunny/webman-push-server](https://github.com/workbunny/webman-push-server)
+3. 💪 Opened PR [#1](https://github.com/workbunny/webman-push-server/pull/1) in [workbunny/webman-push-server](https://github.com/workbunny/webman-push-server)
 4. 💪 Opened PR [#3](https://github.com/workbunny/webman-nacos/pull/3) in [workbunny/webman-nacos](https://github.com/workbunny/webman-nacos)
 5. 🎉 Merged PR [#4](https://github.com/sunsgneayo/sunsgneayo/pull/4) in [sunsgneayo/sunsgneayo](https://github.com/sunsgneayo/sunsgneayo)
 <!--END_SECTION:activity-->
