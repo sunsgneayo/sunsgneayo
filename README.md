@@ -16,11 +16,11 @@ ChongQing,China・💻PHP|WEB前端|GO|... developer
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#110](https://github.com/Gregwar/Captcha/issues/110) in [Gregwar/Captcha](https://github.com/Gregwar/Captcha)
-2. 🗣 Commented on [#14](https://github.com/sunsgneayo/hexo-blog/issues/14) in [sunsgneayo/hexo-blog](https://github.com/sunsgneayo/hexo-blog)
+1. 💪 Opened PR [#111](https://github.com/Gregwar/Captcha/pull/111) in [Gregwar/Captcha](https://github.com/Gregwar/Captcha)
+2. ❗️ Opened issue [#110](https://github.com/Gregwar/Captcha/issues/110) in [Gregwar/Captcha](https://github.com/Gregwar/Captcha)
 3. 🗣 Commented on [#14](https://github.com/sunsgneayo/hexo-blog/issues/14) in [sunsgneayo/hexo-blog](https://github.com/sunsgneayo/hexo-blog)
-4. ❗️ Opened issue [#14](https://github.com/sunsgneayo/hexo-blog/issues/14) in [sunsgneayo/hexo-blog](https://github.com/sunsgneayo/hexo-blog)
-5. 🗣 Commented on [#13](https://github.com/sunsgneayo/hexo-blog/issues/13) in [sunsgneayo/hexo-blog](https://github.com/sunsgneayo/hexo-blog)
+4. 🗣 Commented on [#14](https://github.com/sunsgneayo/hexo-blog/issues/14) in [sunsgneayo/hexo-blog](https://github.com/sunsgneayo/hexo-blog)
+5. ❗️ Opened issue [#14](https://github.com/sunsgneayo/hexo-blog/issues/14) in [sunsgneayo/hexo-blog](https://github.com/sunsgneayo/hexo-blog)
 <!--END_SECTION:activity-->
 
 ---
