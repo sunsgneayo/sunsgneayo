@@ -16,11 +16,11 @@ ChongQing,China・💻PHP|WEB前端|GO|... developer
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5323](https://github.com/hyperf/hyperf/pull/5323) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
-2. 💪 Opened PR [#14](https://github.com/hyperf/nacos/pull/14) in [hyperf/nacos](https://github.com/hyperf/nacos)
-3. 🗣 Commented on [#15](https://github.com/sunsgneayo/hexo-blog/issues/15) in [sunsgneayo/hexo-blog](https://github.com/sunsgneayo/hexo-blog)
-4. ❗️ Opened issue [#15](https://github.com/sunsgneayo/hexo-blog/issues/15) in [sunsgneayo/hexo-blog](https://github.com/sunsgneayo/hexo-blog)
-5. 💪 Opened PR [#111](https://github.com/Gregwar/Captcha/pull/111) in [Gregwar/Captcha](https://github.com/Gregwar/Captcha)
+1. ❗️ Closed issue [#2](https://github.com/sunsgneayo/annotation/issues/2) in [sunsgneayo/annotation](https://github.com/sunsgneayo/annotation)
+2. 🗣 Commented on [#2](https://github.com/sunsgneayo/annotation/issues/2) in [sunsgneayo/annotation](https://github.com/sunsgneayo/annotation)
+3. 🗣 Commented on [#1](https://github.com/sunsgneayo/annotation/issues/1) in [sunsgneayo/annotation](https://github.com/sunsgneayo/annotation)
+4. ❗️ Closed issue [#1](https://github.com/sunsgneayo/annotation/issues/1) in [sunsgneayo/annotation](https://github.com/sunsgneayo/annotation)
+5. 🗣 Commented on [#1](https://github.com/sunsgneayo/annotation/issues/1) in [sunsgneayo/annotation](https://github.com/sunsgneayo/annotation)
 <!--END_SECTION:activity-->
 
 ---
