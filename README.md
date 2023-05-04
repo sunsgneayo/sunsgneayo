@@ -16,8 +16,8 @@ ChongQing,China・💻PHP|WEB前端|GO|... developer
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/sunsgneayo/annotation/issues/2) in [sunsgneayo/annotation](https://github.com/sunsgneayo/annotation)
-2. 🗣 Commented on [#2](https://github.com/sunsgneayo/annotation/issues/2) in [sunsgneayo/annotation](https://github.com/sunsgneayo/annotation)
+1. ❗️ Closed issue [#3](https://github.com/sunsgneayo/annotation/issues/3) in [sunsgneayo/annotation](https://github.com/sunsgneayo/annotation)
+2. 🗣 Commented on [#3](https://github.com/sunsgneayo/annotation/issues/3) in [sunsgneayo/annotation](https://github.com/sunsgneayo/annotation)
 3. 🗣 Commented on [#1](https://github.com/sunsgneayo/annotation/issues/1) in [sunsgneayo/annotation](https://github.com/sunsgneayo/annotation)
 4. ❗️ Closed issue [#1](https://github.com/sunsgneayo/annotation/issues/1) in [sunsgneayo/annotation](https://github.com/sunsgneayo/annotation)
 5. 🗣 Commented on [#1](https://github.com/sunsgneayo/annotation/issues/1) in [sunsgneayo/annotation](https://github.com/sunsgneayo/annotation)
