@@ -16,10 +16,10 @@ ChongQing,China・💻PHP|WEB前端|GO|... developer
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/workbunny/webman-nacos/pull/7) in [workbunny/webman-nacos](https://github.com/workbunny/webman-nacos)
-2. 🔒 Closed issue [#3](https://github.com/sunsgneayo/annotation/issues/3) in [sunsgneayo/annotation](https://github.com/sunsgneayo/annotation)
-3. 🗣 Commented on [#3](https://github.com/sunsgneayo/annotation/issues/3) in [sunsgneayo/annotation](https://github.com/sunsgneayo/annotation)
-4. ❗️ Closed issue [#1](https://github.com/sunsgneayo/annotation/issues/1) in [sunsgneayo/annotation](https://github.com/sunsgneayo/annotation)
+1. 💪 Opened PR [#12](https://github.com/php-casbin/webman-permission/pull/12) in [php-casbin/webman-permission](https://github.com/php-casbin/webman-permission)
+2. 💪 Opened PR [#7](https://github.com/workbunny/webman-nacos/pull/7) in [workbunny/webman-nacos](https://github.com/workbunny/webman-nacos)
+3. 🔒 Closed issue [#3](https://github.com/sunsgneayo/annotation/issues/3) in [sunsgneayo/annotation](https://github.com/sunsgneayo/annotation)
+4. 🗣 Commented on [#3](https://github.com/sunsgneayo/annotation/issues/3) in [sunsgneayo/annotation](https://github.com/sunsgneayo/annotation)
 5. 🗣 Commented on [#1](https://github.com/sunsgneayo/annotation/issues/1) in [sunsgneayo/annotation](https://github.com/sunsgneayo/annotation)
 <!--END_SECTION:activity-->
 
