@@ -15,11 +15,11 @@ ChongQing,China・💻PHP|WEB前端|GO|... developer
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/sunsgneayo/hexo-blog/issues/16#issuecomment-1594425821) in [sunsgneayo/hexo-blog](https://github.com/sunsgneayo/hexo-blog)
-2. ❗ Opened issue [#16](https://github.com/sunsgneayo/hexo-blog/issues/16) in [sunsgneayo/hexo-blog](https://github.com/sunsgneayo/hexo-blog)
-3. 💪 Opened PR [#12](https://github.com/php-casbin/webman-permission/pull/12) in [php-casbin/webman-permission](https://github.com/php-casbin/webman-permission)
-4. 💪 Opened PR [#7](https://github.com/workbunny/webman-nacos/pull/7) in [workbunny/webman-nacos](https://github.com/workbunny/webman-nacos)
-5. 🔒 Closed issue [#3](https://github.com/sunsgneayo/annotation/issues/3) in [sunsgneayo/annotation](https://github.com/sunsgneayo/annotation)
+1. 💪 Opened PR [#25](https://github.com/webman-php/console/pull/25) in [webman-php/console](https://github.com/webman-php/console)
+2. 🎉 Merged PR [#1](https://github.com/sunsgneayo/console/pull/1) in [sunsgneayo/console](https://github.com/sunsgneayo/console)
+3. 💪 Opened PR [#1](https://github.com/sunsgneayo/console/pull/1) in [sunsgneayo/console](https://github.com/sunsgneayo/console)
+4. 🗣 Commented on [#16](https://github.com/sunsgneayo/hexo-blog/issues/16#issuecomment-1594425821) in [sunsgneayo/hexo-blog](https://github.com/sunsgneayo/hexo-blog)
+5. ❗ Opened issue [#16](https://github.com/sunsgneayo/hexo-blog/issues/16) in [sunsgneayo/hexo-blog](https://github.com/sunsgneayo/hexo-blog)
 <!--END_SECTION:activity-->
 
 ---
