@@ -15,11 +15,11 @@ ChongQing,China・💻PHP|WEB前端|GO|... developer
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.0.1](https://github.com/sunsgneayo/webman-multipart-upload/releases/tag/0.0.1) in [sunsgneayo/webman-multipart-upload](https://github.com/sunsgneayo/webman-multipart-upload)
-2. 💪 Opened PR [#25](https://github.com/webman-php/console/pull/25) in [webman-php/console](https://github.com/webman-php/console)
-3. 🎉 Merged PR [#1](https://github.com/sunsgneayo/console/pull/1) in [sunsgneayo/console](https://github.com/sunsgneayo/console)
-4. 💪 Opened PR [#1](https://github.com/sunsgneayo/console/pull/1) in [sunsgneayo/console](https://github.com/sunsgneayo/console)
-5. 🗣 Commented on [#16](https://github.com/sunsgneayo/hexo-blog/issues/16#issuecomment-1594425821) in [sunsgneayo/hexo-blog](https://github.com/sunsgneayo/hexo-blog)
+1. 🚀 Published release [0.2.0](https://github.com/sunsgneayo/webman-multipart-upload/releases/tag/0.2.0) in [sunsgneayo/webman-multipart-upload](https://github.com/sunsgneayo/webman-multipart-upload)
+2. 🚀 Published release [0.0.1](https://github.com/sunsgneayo/webman-multipart-upload/releases/tag/0.0.1) in [sunsgneayo/webman-multipart-upload](https://github.com/sunsgneayo/webman-multipart-upload)
+3. 💪 Opened PR [#25](https://github.com/webman-php/console/pull/25) in [webman-php/console](https://github.com/webman-php/console)
+4. 🎉 Merged PR [#1](https://github.com/sunsgneayo/console/pull/1) in [sunsgneayo/console](https://github.com/sunsgneayo/console)
+5. 💪 Opened PR [#1](https://github.com/sunsgneayo/console/pull/1) in [sunsgneayo/console](https://github.com/sunsgneayo/console)
 <!--END_SECTION:activity-->
 
 ---
