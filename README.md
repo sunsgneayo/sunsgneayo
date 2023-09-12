@@ -15,11 +15,11 @@ ChongQing,China・💻PHP|WEB前端|GO|... developer
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/chaz6chez/simple-amqp/pull/1) in [chaz6chez/simple-amqp](https://github.com/chaz6chez/simple-amqp)
-2. 💪 Opened PR [#16](https://github.com/workbunny/webman-rabbitmq/pull/16) in [workbunny/webman-rabbitmq](https://github.com/workbunny/webman-rabbitmq)
-3. 🎉 Merged PR [#1](https://github.com/sunsgneayo/webman-rabbitmq/pull/1) in [sunsgneayo/webman-rabbitmq](https://github.com/sunsgneayo/webman-rabbitmq)
-4. 💪 Opened PR [#1](https://github.com/sunsgneayo/webman-rabbitmq/pull/1) in [sunsgneayo/webman-rabbitmq](https://github.com/sunsgneayo/webman-rabbitmq)
-5. 🚀 Published release [0.2.0](https://github.com/sunsgneayo/webman-multipart-upload/releases/tag/0.2.0) in [sunsgneayo/webman-multipart-upload](https://github.com/sunsgneayo/webman-multipart-upload)
+1. 💪 Opened PR [#2](https://github.com/chaz6chez/simple-amqp/pull/2) in [chaz6chez/simple-amqp](https://github.com/chaz6chez/simple-amqp)
+2. 💪 Opened PR [#1](https://github.com/chaz6chez/simple-amqp/pull/1) in [chaz6chez/simple-amqp](https://github.com/chaz6chez/simple-amqp)
+3. 💪 Opened PR [#16](https://github.com/workbunny/webman-rabbitmq/pull/16) in [workbunny/webman-rabbitmq](https://github.com/workbunny/webman-rabbitmq)
+4. 🎉 Merged PR [#1](https://github.com/sunsgneayo/webman-rabbitmq/pull/1) in [sunsgneayo/webman-rabbitmq](https://github.com/sunsgneayo/webman-rabbitmq)
+5. 💪 Opened PR [#1](https://github.com/sunsgneayo/webman-rabbitmq/pull/1) in [sunsgneayo/webman-rabbitmq](https://github.com/sunsgneayo/webman-rabbitmq)
 <!--END_SECTION:activity-->
 
 ---
