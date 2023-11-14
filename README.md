@@ -15,11 +15,11 @@ ChongQing,China・💻PHP|WEB前端|GO|... developer
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.1.0](https://github.com/sunsgneayo/webman-sms-register/releases/tag/0.1.0) in [sunsgneayo/webman-sms-register](https://github.com/sunsgneayo/webman-sms-register)
-2. 🚀 Published release [0.0.3](https://github.com/sunsgneayo/webman-sms-register/releases/tag/0.0.3) in [sunsgneayo/webman-sms-register](https://github.com/sunsgneayo/webman-sms-register)
-3. 🚀 Published release [0.0.2](https://github.com/sunsgneayo/webman-sms-register/releases/tag/0.0.2) in [sunsgneayo/webman-sms-register](https://github.com/sunsgneayo/webman-sms-register)
-4. 🔒 Closed issue [#110](https://github.com/Gregwar/Captcha/issues/110) in [Gregwar/Captcha](https://github.com/Gregwar/Captcha)
-5. 💪 Opened PR [#90](https://github.com/walkor/webman-framework/pull/90) in [walkor/webman-framework](https://github.com/walkor/webman-framework)
+1. 🚀 Published release [0.1.1](https://github.com/sunsgneayo/webman-sms-register/releases/tag/0.1.1) in [sunsgneayo/webman-sms-register](https://github.com/sunsgneayo/webman-sms-register)
+2. 🚀 Published release [0.1.0](https://github.com/sunsgneayo/webman-sms-register/releases/tag/0.1.0) in [sunsgneayo/webman-sms-register](https://github.com/sunsgneayo/webman-sms-register)
+3. 🚀 Published release [0.0.3](https://github.com/sunsgneayo/webman-sms-register/releases/tag/0.0.3) in [sunsgneayo/webman-sms-register](https://github.com/sunsgneayo/webman-sms-register)
+4. 🚀 Published release [0.0.2](https://github.com/sunsgneayo/webman-sms-register/releases/tag/0.0.2) in [sunsgneayo/webman-sms-register](https://github.com/sunsgneayo/webman-sms-register)
+5. 🔒 Closed issue [#110](https://github.com/Gregwar/Captcha/issues/110) in [Gregwar/Captcha](https://github.com/Gregwar/Captcha)
 <!--END_SECTION:activity-->
 
 ---
