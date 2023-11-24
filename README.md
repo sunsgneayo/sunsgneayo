@@ -15,11 +15,11 @@ ChongQing,China・💻PHP|WEB前端|GO|... developer
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/workbunny/webman-nacos/pull/18#issuecomment-1825264523) in [workbunny/webman-nacos](https://github.com/workbunny/webman-nacos)
-2. 💪 Opened PR [#18](https://github.com/workbunny/webman-nacos/pull/18) in [workbunny/webman-nacos](https://github.com/workbunny/webman-nacos)
-3. 🚀 Published release [1.0.2](https://github.com/sunsgneayo/webman-sms-send/releases/tag/1.0.2) in [sunsgneayo/webman-sms-send](https://github.com/sunsgneayo/webman-sms-send)
-4. 🚀 Published release [1.0.1](https://github.com/sunsgneayo/webman-sms-send/releases/tag/1.0.1) in [sunsgneayo/webman-sms-send](https://github.com/sunsgneayo/webman-sms-send)
-5. 🚀 Published release [1.0.0](https://github.com/sunsgneayo/webman-sms-send/releases/tag/1.0.0) in [sunsgneayo/webman-sms-send](https://github.com/sunsgneayo/webman-sms-send)
+1. 💪 Opened PR [#1](https://github.com/sunsgneayo/webman-nacos/pull/1) in [sunsgneayo/webman-nacos](https://github.com/sunsgneayo/webman-nacos)
+2. ❌ Closed PR [#19](https://github.com/workbunny/webman-nacos/pull/19) in [workbunny/webman-nacos](https://github.com/workbunny/webman-nacos)
+3. 💪 Opened PR [#19](https://github.com/workbunny/webman-nacos/pull/19) in [workbunny/webman-nacos](https://github.com/workbunny/webman-nacos)
+4. 🗣 Commented on [#18](https://github.com/workbunny/webman-nacos/pull/18#issuecomment-1825264523) in [workbunny/webman-nacos](https://github.com/workbunny/webman-nacos)
+5. 💪 Opened PR [#18](https://github.com/workbunny/webman-nacos/pull/18) in [workbunny/webman-nacos](https://github.com/workbunny/webman-nacos)
 <!--END_SECTION:activity-->
 
 ---
