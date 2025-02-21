@@ -15,7 +15,7 @@ ChongQing,China・💻PHP|GO|PYTHON|WEB|... developer
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/workbunny/webman-coroutine/pull/3) in [workbunny/webman-coroutine](https://github.com/workbunny/webman-coroutine)
+1. 💪 Opened PR [#93](https://github.com/webman-php/webman-manual/pull/93) in [webman-php/webman-manual](https://github.com/webman-php/webman-manual)
 2. 🚀 Published release [bugfix-自动路由为空解释](https://github.com/sunsgneayo/annotation/releases/tag/2.0.1) in [sunsgneayo/annotation](https://github.com/sunsgneayo/annotation)
 3. 💪 Opened PR [#1](https://github.com/sunsgneayo/webman-nacos/pull/1) in [sunsgneayo/webman-nacos](https://github.com/sunsgneayo/webman-nacos)
 4. ❌ Closed PR [#19](https://github.com/workbunny/webman-nacos/pull/19) in [workbunny/webman-nacos](https://github.com/workbunny/webman-nacos)
