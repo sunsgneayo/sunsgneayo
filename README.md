@@ -15,10 +15,10 @@ ChongQing,China・💻PHP|GO|PYTHON|WEB|... developer
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#225](https://github.com/ltaoo/wx_channels_download/issues/225) in [ltaoo/wx_channels_download](https://github.com/ltaoo/wx_channels_download)
-2. 🗣 Commented on [#225](https://github.com/ltaoo/wx_channels_download/issues/225#issuecomment-3544655331) in [ltaoo/wx_channels_download](https://github.com/ltaoo/wx_channels_download)
-3. ❌ Merged PR [#164](undefined) in [fzlee/alipay](https://github.com/fzlee/alipay)
-4. 🗣 Commented on [#225](https://github.com/ltaoo/wx_channels_download/issues/225#issuecomment-3531744916) in [ltaoo/wx_channels_download](https://github.com/ltaoo/wx_channels_download)
+1. 🗣 Commented on [#247](https://github.com/ltaoo/wx_channels_download/issues/247#issuecomment-3674039110) in [ltaoo/wx_channels_download](https://github.com/ltaoo/wx_channels_download)
+2. 🗣 Commented on [#247](https://github.com/ltaoo/wx_channels_download/issues/247#issuecomment-3674034682) in [ltaoo/wx_channels_download](https://github.com/ltaoo/wx_channels_download)
+3. 🗣 Commented on [#247](https://github.com/ltaoo/wx_channels_download/issues/247#issuecomment-3674020305) in [ltaoo/wx_channels_download](https://github.com/ltaoo/wx_channels_download)
+4. 🔒 Closed issue [#225](https://github.com/ltaoo/wx_channels_download/issues/225) in [ltaoo/wx_channels_download](https://github.com/ltaoo/wx_channels_download)
 5. 🗣 Commented on [#225](https://github.com/ltaoo/wx_channels_download/issues/225#issuecomment-3531719723) in [ltaoo/wx_channels_download](https://github.com/ltaoo/wx_channels_download)
 <!--END_SECTION:activity-->
 
