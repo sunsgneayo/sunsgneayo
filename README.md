@@ -5,7 +5,7 @@
 
 #### Hello 👋 你好啊！
 
-ChongQing,China・💻PHP|GO|PYTHON|WEB|... developer 
+ChongQing,China・💻PHP|GO|PYTHON|WEB|FLUTTER... developer 
 
 
 [点击这里 :heart:](https://github.com/sunsgneayo)
